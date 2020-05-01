@@ -1,0 +1,15 @@
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\MainWindow.g.cs
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\App.g.cs
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion_MarkupCompile.cache
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion_MarkupCompile.lref
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\MainWindow.baml
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.g.resources
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+G:\Familia\Diego\Documentos\cursos\C#\projects\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
